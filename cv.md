@@ -19,3 +19,17 @@ I am 36 years old and work as a system administrator. I think that my real work 
     * Team playing
 
 > **Keep learning...**
+
+# Skills
+
+* HTML5/CSS3
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+* React JS, Redux/Thunk
+* Version control: Git
+* Editors: Brackets, **VSCode**, Webstorm
+
+## Education History
+* **Course RSSchool (JS/Front-End 2022Q3)**, 2022 - until now
+* **Courses Udemy**, 2021 - 2022
+* **Belarusian National Technical University**, 2003-2008, Metallurgy
+  * powder metallurgy, composite materials, dispersion layers
