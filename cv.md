@@ -45,3 +45,8 @@ function camelize(str){
     * [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
     * [Udemy - JavaScript (in process...)](https://www.udemy.com/course/javascript_full/)
 	 * [ReactJS - Way of the Samurai video curs](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+
+# Languages
+
+* **Russian** - native speaker.
+* **English** - A1 (A2 in process...)
