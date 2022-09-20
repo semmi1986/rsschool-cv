@@ -33,3 +33,21 @@ I am 36 years old and work as a system administrator. I think that my real work 
 * **Courses Udemy**, 2021 - 2022
 * **Belarusian National Technical University**, 2003-2008, Metallurgy
   * powder metallurgy, composite materials, dispersion layers
+
+# Code Examples
+You must create a method that can convert a string from any format into CamelCase. This must support symbols too.
+Don't presume the separators too much or you could be surpris
+```
+function camelize(str){
+  return str.replace(/[^a-z0-9]/gi,' ').split` `.map(v=>v.slice(0,1).toUpperCase()+v.slice(1).toLowerCase()).join``
+}
+}
+```
+# Education
+
+* **Belarusian National Technical University**
+    * powder metallurgy, composite materials, dispersion layers
+* **Courses**
+    * [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+    * [Udemy - JavaScript (in process...)](https://www.udemy.com/course/javascript_full/)
+	 * [ReactJS - Way of the Samurai video curs](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
