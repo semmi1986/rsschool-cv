@@ -1,7 +1,7 @@
 # SIAMION SAMASIUK
 
 ---
-# My Contact Info:
+## My Contact Info:
 
 * **Location:** Minsk, Belarus 
 * **Phone:** +375 44 727-18-99
@@ -9,7 +9,7 @@
 * **GitHub:** [Semen Samosiuk](https://github.com/semmi1986)
 * **Linkedin** [www.linkedin.com/in/siamion-samasiuk](www.linkedin.com/in/siamion-samasiuk)
 
-# About Me
+## About Me
 I am 36 years old and work as a system administrator. I think that my real work has become very monotonous and doesn't give me any further room for development. I really need classes in which I can develop throughout my life. That's why I'm here. My goal is to gain knowledge in the field of front-end development.
 
 * **My strengths:**
@@ -20,7 +20,7 @@ I am 36 years old and work as a system administrator. I think that my real work 
 
 > **Keep learning...**
 
-# Skills
+## Skills
 
 * HTML5/CSS3
 * JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
@@ -28,7 +28,7 @@ I am 36 years old and work as a system administrator. I think that my real work 
 * Version control: Git
 * Editors: Brackets, **VSCode**, Webstorm
 
-# Code Examples
+## Code Examples
 You must create a method that can convert a string from any format into CamelCase. This must support symbols too.
 Don't presume the separators too much or you could be surpris
 ```
@@ -37,7 +37,7 @@ function camelize(str){
 }
 }
 ```
-# Education History
+## Education History
 
 * **Belarusian National Technical University**
     * powder metallurgy, composite materials, dispersion layers
@@ -46,7 +46,7 @@ function camelize(str){
     * [Udemy - JavaScript (in process...)](https://www.udemy.com/course/javascript_full/)
 	 * [ReactJS - Way of the Samurai video curs](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 
-# Languages
+## Languages
 
 * **Russian** - native speaker.
 * **English** - A1 (A2 in process...)
